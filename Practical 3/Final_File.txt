@@ -1,3 +1,0 @@
-1001 VinayKumar 40 10000.0 
-1002 RohitSen 35 0.0 
-1003 VinitaSharma 28 3500.0 
